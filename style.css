@@ -6,3 +6,10 @@ nav{
 #drejt{
     display: flex;
 }
+#main{
+ display: flex;
+ align-items: center;
+}
+shuma{
+    margin-left: 60px;
+}
