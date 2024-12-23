@@ -13,3 +13,10 @@ nav{
 shuma{
     margin-left: 60px;
 }
+#blue{
+    background-color: lightblue;
+}
+.icons{
+    width: 30px;
+    height: 30px;
+}
