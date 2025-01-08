@@ -10,13 +10,16 @@ nav{
  display: flex;
  align-items: center;
 }
-shuma{
-    margin-left: 60px;
-}
+
 #blue{
     background-color: lightblue;
+    width: 80%;
 }
 .icons{
     width: 30px;
     height: 30px;
+}
+#width{
+    width: 390px;
+    height: 290px;
 }
